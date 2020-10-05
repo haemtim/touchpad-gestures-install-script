@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo gpasswd -a tim input
+sudo gpasswd -a YOUR_USERNAME input
 
 sudo apt-get install wmctrl python3 python3-setuptools xdotool python3-gi libinput-tools python-gobject
 
