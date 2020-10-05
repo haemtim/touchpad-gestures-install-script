@@ -3,7 +3,7 @@ Bash installation script for touchpad gestures on Linux. Uses apt.
 
 # Usage
 
-Clone in any directory you wish: \
+Clone in your user directory: \
 `git clone https://github.com/haemtim/touchpad-gestures-install-script.git` <br>
 
 Change directory into the new, cloned directory: \
