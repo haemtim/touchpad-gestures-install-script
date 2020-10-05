@@ -9,6 +9,11 @@ Clone in any directory you wish: \
 Change directory into the new, cloned directory: \
 `cd touchpad-gestures-install-script/` <br>
 
+Edit the script: \
+`sudo nano install-touch-gestures.sh` <br>
+
+Replace "your_username" in the first line with your username. Exit by pressing control+x, confirm with "y", then enter. \
+
 Update permissons of the file so it can be executed: \
 `sudo chmod +x install-touch-gestures.sh` <br>
 
