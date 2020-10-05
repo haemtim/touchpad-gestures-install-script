@@ -17,4 +17,5 @@ Execute the file: \
 
 You will now find a programm called "gestures". There you can configure the effect of certain gestures. You can use xdotool to assign keystrokes or keyboard shortcuts to gestures. To do so, use <br>
 `xdotool key Examplekey1+Examplekey2+...` <br>
+as the command. \
 You can find a full list of xdotool keycodes here: https://gitlab.com/cunidev/gestures/-/wikis/xdotool-list-of-key-codes
