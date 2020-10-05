@@ -1,5 +1,5 @@
 # touchpad-gestures-install-script
-Bash installation script for touchpad gestures. Uses apt.
+Bash installation script for touchpad gestures on Linux. Uses apt.
 
 # Usage
 
