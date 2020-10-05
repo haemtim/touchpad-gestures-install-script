@@ -12,7 +12,7 @@ Change directory into the new, cloned directory: \
 Edit the script: \
 `sudo nano install-touch-gestures.sh` <br>
 
-Replace "your_username" in the first line with your username. Exit by pressing control+x, confirm with "y", then enter. \
+Replace "YOUR_USERNAME" in the first line with your username. Exit by pressing control+x, confirm with "y", then enter. \
 
 Update permissons of the file so it can be executed: \
 `sudo chmod +x install-touch-gestures.sh` <br>
